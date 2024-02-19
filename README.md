@@ -13,10 +13,14 @@ JavaScript: it is a programming language, commonly use with web browsers.
 
 ## Snapshots
 
-![Screenshot (214)](https://github.com/alfiyasama/netflix-clone/assets/121941528/789f309a-e186-4854-877a-6d210a17939c)
+![Screenshot (218)](https://github.com/alfiyasama/netflix-clone/assets/121941528/b84dd13e-c117-4ca4-9845-3a04f01cd3a9)
 
-![Screenshot (215)](https://github.com/alfiyasama/netflix-clone/assets/121941528/4f60abac-9c9c-49f5-b1b7-7efbb6be43b7)
+![Screenshot (219)](https://github.com/alfiyasama/netflix-clone/assets/121941528/6f9c3c5a-937b-4c0c-a7f8-f2c410ee5cab)
 
-![Screenshot (216)](https://github.com/alfiyasama/netflix-clone/assets/121941528/91e12c93-6e72-44ae-b8bb-1636849e5e4f)
+![Screenshot (220)](https://github.com/alfiyasama/netflix-clone/assets/121941528/d21e554c-5fe0-4946-9217-b7b8894fde49)
 
-![Screenshot (217)](https://github.com/alfiyasama/netflix-clone/assets/121941528/e2297333-8086-491b-877f-c89d8936f1a4)
+![Screenshot (221)](https://github.com/alfiyasama/netflix-clone/assets/121941528/dff76a10-8e4e-41b1-a1ab-189b1afbfbde)
+
+
+
+
